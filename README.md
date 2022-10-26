@@ -1,5 +1,5 @@
 # YYX.Kindle
-STZhongyuan.ttf 实际字体是 字魂81号-清风体
+STZhongyuan.ttf 实际字体是“字魂81号-清风体”
 <br/>
 <br/>
 替换
